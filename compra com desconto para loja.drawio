@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Página-1" id="yytNhT0nvlnZiS-gLX5F">
+    <mxGraphModel dx="1434" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7jsGjqTthMeM8hmRn1to-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-1" target="7jsGjqTthMeM8hmRn1to-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-1" value="&lt;span style=&quot;color: rgb(60, 60, 60); font-family: tahoma, sans-serif; font-size: 11px; text-align: justify; background-color: rgb(210, 205, 185);&quot;&gt;DESCONTO PROGRESSIVO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-6" target="7jsGjqTthMeM8hmRn1to-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-6" target="7jsGjqTthMeM8hmRn1to-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-6" value="VALOR TOTAL&lt;div&gt;SE&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-7" target="7jsGjqTthMeM8hmRn1to-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-7" value="MENOR&amp;nbsp;&lt;div&gt;R$200.00&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="179" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-8" target="7jsGjqTthMeM8hmRn1to-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-8" value="IGUAL OU MAIOR R$200.00 MENOR R$300.00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="179" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-11" target="7jsGjqTthMeM8hmRn1to-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-11" value="RECEBE 5%&lt;div&gt;DESCONTO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-13" target="7jsGjqTthMeM8hmRn1to-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-13" value="RECEBE 10%&lt;div&gt;DESCONTO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-21" target="7jsGjqTthMeM8hmRn1to-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-21" value="MAIOR OU IGUAL R$ 300.00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-32" target="7jsGjqTthMeM8hmRn1to-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-32" value="RECEBE 15%&lt;div&gt;DESCONTO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-35" value="INSIRA O VALOR&lt;div&gt;TOTAL&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-41" target="7jsGjqTthMeM8hmRn1to-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-41" target="7jsGjqTthMeM8hmRn1to-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-41" value="CALCULAR VALOR TOTAL+DESCONTO(VARIAVEL)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="610" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-46" target="7jsGjqTthMeM8hmRn1to-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-46" value="VALOR TOTAL(SEM DESCONTO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7jsGjqTthMeM8hmRn1to-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-47" value="VALOR TOTAL(COM DESCONTO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jsGjqTthMeM8hmRn1to-50" value="PREÇO TOTAL A PAGAR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
